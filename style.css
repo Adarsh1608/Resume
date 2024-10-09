@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adarsh Narayan N | Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Adarsh Narayan N</h1>
+    <p>Embedded Firmware Engineer | Bangalore, Karnataka</p>
+    <p>Phone: 9961178156 | Email: <a href="mailto:adarshnarayan1608@gmail.com">adarshnarayan1608@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/adarsh-narayan-n-6bb33b244">linkedin.com/in/adarsh-narayan-n-6bb33b244</a></p>
+  </header>
+
+  <section id="summary">
+    <h2>Summary</h2>
+    <p>Experienced Firmware Engineer with over a year of expertise in developing and optimizing firmware for embedded systems. Proficient in C/C++ programming and debugging, with a proven track record of collaborating effectively with cross-functional teams to deliver efficient solutions. Committed to continuous learning and staying abreast of industry trends.</p>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <div class="job">
+      <h3>Junior Firmware Engineer</h3>
+      <p>Voni Smart IoT Pvt Ltd, Bangalore, India | July 2023 - Present</p>
+      <ul>
+        <li>Contributed to the design and development of innovative IoT solutions for Smart Home.</li>
+        <li>Collaborated within a dynamic team to build and enhance smart lighting systems, prioritizing energy efficiency and user comfort.</li>
+        <li>Ensured product quality at an affordable price point, facilitating widespread adoption of Smart Home technology globally.</li>
+        <li>Leveraged emerging technologies to create user-centric IoT solutions, driving continuous growth and innovation in the Smart Home sector.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="technical-skills">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><strong>Languages:</strong> Embedded C/C++, Python</li>
+      <li><strong>Frameworks:</strong> ESP-IDF</li>
+      <li><strong>Communication Protocols:</strong> UART, I2C, SPI, CAN, MQTT, HTTP, TCP/IP</li>
+      <li><strong>Embedded Systems:</strong> RTOS (FreeRTOS), ESP32, ESP8266, PIC16F877A</li>
+      <li><strong>IDE:</strong> MPLAB X, Arduino IDE, VSCode Extension, Jupyter Notebook, PyCharm</li>
+      <li><strong>Scripting:</strong> Shell Scripting (Linux)</li>
+      <li><strong>Developer Tools:</strong> GitHub, Git</li>
+      <li><strong>IoT Analytics:</strong> ThingSpeak</li>
+      <li><strong>AWS IoT Core:</strong> Real-time device monitoring for troubleshooting and performance analysis</li>
+      <li><strong>Other Skills:</strong> Requirements analysis, debugging, troubleshooting, technical documentation</li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p><strong>B.Tech in Electrical and Electronics Engineering</strong>, College Of Engineering Vadakara, Kerala, India | 2018 - 2022 | 7.3 CGPA</p>
+    <p><strong>Higher Secondary (XII), Biology Science</strong>, KPR Gopalan Memorial Higher Secondary School, Kerala, India | 2016 - 2018 | 81.1%</p>
+    <p><strong>Secondary (Xth)</strong>, Moothedath Higher Secondary School, Kerala, India | 2015 - 2016 | 90%</p>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <p><strong>Emertxe Certified Embedded Professional</strong> - Emertxe Information Technologies</p>
+    <p>This course is Government of India certified program, aligned with Skill India/NSDC under Electronics Sector Skill Council of India (ESSCI).</p>
+  </section>
+
+  <section id="projects">
+    <h2>Professional Projects</h2>
+    <h3>Smart Switch Board</h3>
+    <p>Developed a smart switch system with tap and touch panel features, integrating it into IoT systems using ESP32, Wi-Fi, MQTT, and touch ICs. Implemented dimmable light control using TRIAC based PWM techniques.</p>
+
+    <h3>Occupancy Basics - Light Control System</h3>
+    <p>Led the development of a lighting system with PIR sensors for automatic activation, integrating LDR sensors for light intensity adjustment and energy conservation, with a static webpage interface for control.</p>
+
+    <h3>Smart AC and IR Controller</h3>
+    <p>Developed firmware to scan and store IR data for remote device control via MQTT protocol and external EEPROM using the I2C protocol.</p>
+
+    <h3>Front and Back DRL Lighting System</h3>
+    <p>Coordinated with a team to create a DRL lighting system with web app control via ESP32 for remote customization and animation control.</p>
+  </section>
+
+  <section id="academic-projects">
+    <h2>Academic Projects</h2>
+    <h3>Car Black Box</h3>
+    <p>Developed a system using PIC16F877A to monitor a car’s performance, storing data in EEPROM and linking it with the system via UART for comprehensive accident analysis.</p>
+
+    <h3>Automated Transmission Line Fault Detection</h3>
+    <p>Implemented an IoT-based open line fault detection system for remote monitoring of transmission lines, ensuring efficient fault identification and restoration.</p>
+  </section>
+
+  <section id="languages">
+    <h2>Languages</h2>
+    <ul>
+      <li>English</li>
+      <li>Hindi</li>
+      <li>Malayalam</li>
+      <li>Tamil</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: <a href="mailto:adarshnarayan1608@gmail.com">adarshnarayan1608@gmail.com</a></p>
+  </footer>
+</body>
+</html>
